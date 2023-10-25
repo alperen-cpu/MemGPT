@@ -14,3 +14,4 @@ tiktoken
 timezonefinder
 tqdm
 typer
+urllib3==1.25.11
